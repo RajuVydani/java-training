@@ -8,9 +8,9 @@ class ExPolymorphism
 
 	}
 
-	public static void printDetails(Actor actor) {
+	public static void printDetails() {
 		
-		
+	
 
 	}
 }

@@ -32,5 +32,6 @@ class ShapeTest {
 		Shape shape = new Square();
 		shape.display();
 		
+		
 	}	
 }
