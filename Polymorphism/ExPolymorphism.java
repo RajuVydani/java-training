@@ -25,7 +25,7 @@ class ExPolymorphism
 
 	public static void printDetails(Actor actor) {
 		
-		System.out.println("===============Profile===============");
+		System.out.println("===============Profile===============>>");
 		actor.getProfile();
 
 		System.out.println("===============Movies list ===============");
