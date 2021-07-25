@@ -1,0 +1,5 @@
+Interface Vs Abstraction
+
+https://stackoverflow.com/questions/10040069/abstract-class-vs-interface-in-java
+
+https://www.codejava.net/java-core/the-java-language/12-rules-and-examples-about-inheritance-in-java

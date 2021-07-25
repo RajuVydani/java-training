@@ -1,0 +1,4 @@
+Download project
+	git clone <project url>
+To show the status
+	git status
