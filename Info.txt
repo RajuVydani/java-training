@@ -1,3 +1,11 @@
+Practice:
+
+27Jul
+create an arraylist and add [1,2,3,4]
+replace with [one,two,three,four] and print.
+put logic in for loop 
+
+
 Interface Vs Abstraction
 
 https://stackoverflow.com/questions/10040069/abstract-class-vs-interface-in-java
