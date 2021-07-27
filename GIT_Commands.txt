@@ -2,3 +2,11 @@ Download project
 	git clone <project url>
 To show the status
 	git status
+Staging
+	git add .
+commit
+	git commit -m 'added package files'
+push
+	git push origin master
+pull
+	git pull
